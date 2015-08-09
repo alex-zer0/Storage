@@ -1,0 +1,10 @@
+.product-creation-form {
+  padding: 20px;
+  display: table;
+  margin: 50px auto;
+  max-width: 800px;
+}
+
+.product-creation-form label {
+  display: block;
+}

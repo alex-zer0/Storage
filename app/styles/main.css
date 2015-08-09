@@ -1,0 +1,20 @@
+@import "product.css";
+@import "products.css";
+@import "modal-template.css";
+@import "directives/product-creation-form.css";
+
+h1 {
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+}
+
+.navbar-fixed-top, .navbar-fixed-top .navbar-collapse {
+    display: table !important;
+    float: none;
+    clear: both;
+}
+
+.navbar-nav li {
+    float: none !important;
+}

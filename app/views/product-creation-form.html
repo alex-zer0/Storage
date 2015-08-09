@@ -1,0 +1,7 @@
+<form class="product-creation-form">
+    <label>Title: <input type="text" class="form-control" ng-model="product.title" placeholder="New product..." required/></label>
+    <label>Description:</label>
+    <textarea class="form-control" ng-model="product.description" required></textarea>
+    <label>Price: <input type="text" class="form-control" ng-model="product.price"  placeholder="0.01$"/></label>
+    <input type="submit" class="btn btn-default" value="Add" ng-click="addProduct()" />
+</form>
