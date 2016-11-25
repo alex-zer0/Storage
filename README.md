@@ -1,6 +1,7 @@
 # Storage
 
-Simple project for viewing and adding products in Storage.
+Simple project for viewing and adding products
+in Storage.
 - 1
 - 2
 - 3
